@@ -1,0 +1,19 @@
+body{
+  background-color: #1a4b63;
+  background-size:100%;
+  background-attachment: fixed;
+  color: white;
+  font-family: "Orbitron";
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
+h3{
+  display:inline;
+}
+
+#start{
+  margin:10px;
+}
